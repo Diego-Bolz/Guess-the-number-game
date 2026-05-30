@@ -15,9 +15,9 @@ while guesses != random_number and chances < 5:
     attempts.append(guesses)
     chances += 1
     if guesses > random_number:
-        print(f'Higher!')
-    elif guesses < random_number:
         print(f'Lower!')
+    elif guesses < random_number:
+        print(f'Higher!')
 if guesses == random_number:
     print(f'{divider}\nCorrect! the random number was {random_number}!')
     print(f'It took you {guesses} attempts!')
