@@ -5,6 +5,8 @@ This is an interactive number guessing game developed in Python for the terminal
 - Attempt limit: The player has up to 5 chances to guess the correct number.
 - Play history: Detailed display of all previous guesses at the end of the game.
 - Real-Time feedback: Hints indicating whether the guess is to high or too low.
+## Update Logs
+- 06/08/26 Added error handling for difficulty and guesses
 ## Technologies used
 - Python 3
 - Native random library
