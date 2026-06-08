@@ -10,3 +10,4 @@ This is an interactive number guessing game developed in Python for the terminal
 ## Technologies used
 - Python 3
 - Native random library
+- No generative AI was used
